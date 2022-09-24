@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas3Praktikum</string>
+    <string name="sign_in_to_continue">sign in to continue</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="reset_code_reset_pw">Reset code was sent to your email. Please enter the code and create new password</string>
+    <string name="desk_forgot_password">Please enter your email below to recieve your password reset instruction</string>
+</resources>
